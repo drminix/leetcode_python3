@@ -1,2 +1,4 @@
 # leetcode_python3
-Commented solutions for leetcode in Python3
+This repository contains solutions for the following leetcode problems in Python3:
+
+1. Two sum
