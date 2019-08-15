@@ -1,0 +1,2 @@
+#directory containing compiled python files(.pyc)
+__pycache__
